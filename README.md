@@ -1,4 +1,4 @@
-# Hi, I'm Suhail Thanveer Shaik 👋
+# Hi, I'm Sohail Thanveer Shaik 👋
 
 ## 💫 About Me:
 I am a Computer Science and Engineering graduate specializing in Data Science with a passion for exploring technology, working with data, and continuously expanding my knowledge. I have hands-on knowledge of Python, R, MySQL, and data visualization tools such as Excel, Power BI, and Tableau, along with an understanding of Artificial Intelligence, Machine Learning, and Cloud Computing. Beyond these skills, I am always curious to explore new technologies and develop new capabilities. I enjoy turning data into meaningful insights, solving problems, and learning through new challenges. Currently, I am looking for opportunities in Data Science, Data Analytics, and other technology roles where I can apply my skills, learn from real-world experiences, and contribute to meaningful work.<br>Let’s connect and grow together. I am always open to connecting, learning from others, and exploring new opportunities.
