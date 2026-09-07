@@ -14,3 +14,15 @@ I am a Computer Science and Engineering graduate specializing in Data Science wi
 ![](https://github-readme-stats.shion.dev/api?username=sohailthanveersk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=sohailthanveersk&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sohailthanveersk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+# 📊 GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohailthanveersk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+<br/>
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=sohailthanveersk&theme=dark&hide_border=false)
+
+<br/>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohailthanveersk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
